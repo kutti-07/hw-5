@@ -1,0 +1,46 @@
+
+[
+    {
+        "name": "Дайчи Савамура",
+        "age": 19,
+        "position": "Капитан / Доигровщик / Специалист защиты",
+        "photo": "https://i.pinimg.com/736x/15/f6/31/15f631080ddb8de40a5e74905d4e08e4.jpg"
+    },
+    {
+        "name": "Асахи Азумане",
+        "age": 19,
+        "position": "Ас / Доигровщик",
+        "photo": "https://i.pinimg.com/736x/a4/cf/bf/a4cfbf0526793edaf8dccb48422da9a5.jpg"
+    },
+    {
+        "name": "Рюноске Танака",
+        "age": 18,
+        "position": "Доигровщик",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGMe-xEfcu6EBhovMiw6B1kd6OU2o_mcyZlQ&s"
+    },
+    {
+        "name": "Юу Нишиноя",
+        "age": 18,
+        "position": "Либеро",
+        "photo": "https://yazhevika.ru/wp-content/uploads/2023/09/anime-voleibol-nishinoia-15.webp"
+    },
+    {
+        "name": "Тобио Кагеяма",
+        "age": 17,
+        "position": "Связующий",
+        "photo": "https://img.wattpad.com/818c98f66fb3bb99fca39b974407eaac53a78df3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6d36634175554c2d7444476e4b513d3d2d3932303537343139362e313632316538663361363830643938633532353432353639343838352e6a7067"
+    },
+    {
+        "name": " Шоё Хината",
+        "age": 17,
+        "position": "Центральный блокирующий / Приманка",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYvN0zPTwhWl83lAD-ermBPIh5JLBZam1N8A&s"
+    },
+    {
+        "name": "Кей Тсукишима",
+        "age": 17,
+        "position": "Центральный блокирующий",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt7AylLUifKKvnN-u7sDd934GdG57e0wDCZA&s"
+    }
+    
+]

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+           body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .card-container {
+            display: flex;
+            flex-wrap: wrap;    
+            gap: 20px;
+            max-width: 200px;
+            margin: auto;
+        }
+        .card {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 200px;
+            text-align: center;
+            padding: 10px;
+            overflow: hidden;
+        }
+        .person_photo img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .card h3 {
+            margin: 10px 0 5px;
+            font-size: 18px;
+        }
+        .card p {
+            margin: 0;
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <h1>Карточки персонажей</h1>
+<div class="card-container" id="card-container"></div>
+</body>
+<script src="../js/haiky.js"></script>
+</html>
